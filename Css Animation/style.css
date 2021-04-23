@@ -1,0 +1,13 @@
+section{
+
+	border:1px solid grey;
+	width:50vw;
+	margin:auto;
+	
+}
+div{
+	background-color: cyan;
+	border: 2px solid black;
+	width:20%;
+	height: :20%;
+}
